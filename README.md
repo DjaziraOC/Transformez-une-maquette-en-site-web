@@ -39,7 +39,6 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 
 - [x] Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab.
 
-
 ## Outils et languages pour la réalisation du projet
 
 ## Languages
@@ -56,7 +55,7 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 - [x] Implémenter une interface responsive
 
 ## Lien du projet 
-- [x] [lien:transformez-une-maquette-en-site-web](https://djaziraoc.github.io/transformez-une-maquette-en-site-web/)
+- [x] [Le code a été versionné sur Git et déployé sur GitHub à l'addresse suivante:](https://djaziraoc.github.io/transformez-une-maquette-en-site-web/)
 
 ## Evaluation
 -> Projet validé
