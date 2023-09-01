@@ -56,7 +56,7 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 - [x] Implémenter une interface responsive
 
 ## Lien du projet 
-- [x] [lien:transformez-une-maquette-en-site-web](https://djaziraoc.github.io/transformez-une-maquette-en-site-web/)
+- [x] [lien:Transformez-une-maquette-en-site-web](https://djaziraoc.github.io/Transformez-une-maquette-en-site-web/)
 
 ## Evaluation
 -> Projet validé
