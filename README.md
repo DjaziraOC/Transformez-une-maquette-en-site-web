@@ -43,17 +43,17 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 ## Outils et languages pour la réalisation du projet
 
 ## Languages
-- [x]Le projet à été réalisé en HTML5/CSS3, sans framework 
+- [x] Le projet à été réalisé en HTML5/CSS3, sans framework 
 
 ## Outils         
-- [x][Visual Studio Code](https://code.visualstudio.com/)- Editeur de codes
-- [x][Validateur W3C (HTML&CSS)](https://validator.w3.org/)- Outil pour vérifier que le code est conforme aux standards du Web.
-- [x][GitHub](https://github.com/)- Hébergeur de site web 
+- [x] [Visual Studio Code](https://code.visualstudio.com/)- Editeur de codes
+- [x] [Validateur W3C (HTML&CSS)](https://validator.w3.org/)- Outil pour vérifier que le code est conforme aux standards du Web.
+- [x] [GitHub](https://github.com/)- Hébergeur de site web 
 
 ## Compétences évaluées
 
-- [x]Intégrer du contenu conformément à une maquette
-- [x]Implémenter une interface responsive
+- [x] Intégrer du contenu conformément à une maquette
+- [x] Implémenter une interface responsive
 
 ## Evaluation
 -> Projet validé
