@@ -55,5 +55,8 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 - [x] Intégrer du contenu conformément à une maquette
 - [x] Implémenter une interface responsive
 
+## Lien du projet 
+- [x] [lien:transformez-une-maquette-en-site-web](https://djaziraoc.github.io/transformez-une-maquette-en-site-web/)
+
 ## Evaluation
 -> Projet validé
