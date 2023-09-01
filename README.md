@@ -39,7 +39,6 @@ Projet n°2 du parcours [développeur web chez OpenClassrooms](https://openclass
 
 - [x] Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab.
 
-
 ## Outils et languages pour la réalisation du projet
 
 ## Languages
